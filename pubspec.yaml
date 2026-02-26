@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   sensors_plus: ^6.1.2
   permission_handler: ^10.2.0
+  shared_preferences: ^2.2.2
   syncfusion_flutter_gauges: ^20.4.48
   
 dev_dependencies:
