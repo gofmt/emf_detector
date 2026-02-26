@@ -1,16 +1,11 @@
 # emf_detector
 
-A new Flutter project.
 
-## Getting Started
+### Flutter Version
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+Flutter 3.38.2 • channel stable • https://mirrors.tuna.tsinghua.edu.cn/git/flutter-sdk.git
+Framework • revision f5a8537f90 (3 个月前) • 2025-11-18 09:27:21 -0500
+Engine • hash 78c3c9557e50ee7c676fa37562558c59efd8406a (revision b5990e5ccc) (3 months ago) • 2025-11-12 21:08:24.000Z
+Tools • Dart 3.10.0 • DevTools 2.51.1
+```
